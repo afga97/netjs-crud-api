@@ -1,0 +1,12 @@
+server:
+  port: 3000
+
+db:
+  host: 'localhost'
+  username: 'postgres'
+  password: 'postgres'
+  port: 5432
+  synchronize: true
+
+jwt:
+  secret: 'topSecret51'
